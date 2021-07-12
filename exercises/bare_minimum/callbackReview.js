@@ -1,5 +1,5 @@
 /**
- * Implement these functions following the node style callback pattern
+ * Implement these functions following the node style callback pattern test
  */
 
 var fs = require('fs');
