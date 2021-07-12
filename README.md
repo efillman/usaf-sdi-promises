@@ -32,7 +32,7 @@ fs.readFile(__dirname + '/README.md', 'utf8', function (err, content) {
 });
 ```
 
-- [ ] Complete the exercises in `bare_minimum/callbackReview.js` and make the *Callback review* tests pass
+- [X] Complete the exercises in `bare_minimum/callbackReview.js` and make the *Callback review* tests pass
 
 #### Use the `Promise` constructor
 
